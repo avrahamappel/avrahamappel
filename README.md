@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### A bit about me
+
 ![Metrics](/github-metrics.svg)
